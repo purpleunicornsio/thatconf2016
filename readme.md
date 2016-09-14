@@ -35,3 +35,5 @@ http://www.slideshare.net/BradWilliams86/thatconference-2016-highly-available-no
     ```
     kubectl apply -f kubernetes/
     ```
+
+Thom minkube is amazing!
